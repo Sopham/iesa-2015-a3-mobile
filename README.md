@@ -5,18 +5,32 @@
 Git init = la première commande à faire 
 Git Status 
 Git add 
-Git commit -m "x"
+Git commit -am "x"
+
+/*******************************/
 
 Partage : 
 
 git add remote 
 git push
 
+/*******************************/
+
 Raccourcis :
 
 pomme + , = préférences
+
+/*******************************/
 
 Plugins : 
 
 cordova plugins search 
 cordova plugins ls
+
+/*******************************/
+
+
+général -> launch images
+regarder la référence de l'iphone et sa resource
+aller dans le fichier hello/platforms/ios/HelloWorld/Resources/splash et changer l'image associée
+restart xcode et lancer l'appli dans le simulateur, si celle-ci a déjà été ouverte ctrl + cmd + h pour la fermer et relancer.
