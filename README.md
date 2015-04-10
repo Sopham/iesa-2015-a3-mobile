@@ -7,3 +7,16 @@ Git Status
 Git add 
 Git commit -m "x"
 
+Partage : 
+
+git add remote 
+git push
+
+Raccourcis :
+
+pomme + , = préférences
+
+Plugins : 
+
+cordova plugins search 
+cordova plugins ls
